@@ -12,6 +12,7 @@
 ## Contributors:
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
+Madhavik0512
 
 - [@prmsrswt](https://github.com/prmsrswt)
 
